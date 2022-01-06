@@ -242,7 +242,7 @@ $easing: ease-out;
 
   // If parent is disabled
   :disabled & {
-    pointer-events: none;
+    // pointer-events: none;
   }
 
   &:not([data-label='']).is-sticky {
