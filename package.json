@@ -1,5 +1,5 @@
 {
-  "name": "@adamdehaven/vue-custom-tooltip",
+  "name": "@snicks1/vue-custom-tooltip",
   "version": "2.6.0",
   "description": "A customizable, reusable, and reactive tooltip component for Vue 3 (including TypeScript) projects.",
   "keywords": [
@@ -11,13 +11,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/adamdehaven/vue-custom-tooltip.git"
+    "url": "https://github.com/snicks1/vue-custom-tooltip.git"
   },
   "author": "Adam DeHaven <adam@dehaven.org> (https://www.adamdehaven.com/)",
   "license": "MIT",
-  "homepage": "https://github.com/adamdehaven/vue-custom-tooltip/#readme",
+  "homepage": "https://github.com/snicks1/vue-custom-tooltip/#readme",
   "bugs": {
-    "url": "https://github.com/adamdehaven/vue-custom-tooltip/issues"
+    "url": "https://github.com/snicks1/vue-custom-tooltip/issues"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
