@@ -274,8 +274,8 @@ tooltip($direction)
         visibility visible
 
     // If parent is disabled
-    :disabled &
-        pointer-events none
+    // :disabled &
+    //      pointer-events none
 
     &:not([data-label='']).is-sticky
         &:before, &:after
